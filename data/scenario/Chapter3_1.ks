@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Chapter3_1.ks]
+[_tb_system_call storage=./data/scenario/system/_Chapter3_1.ks]
 
 [bg  time="1000"  method="fadeIn"  storage="Office.png"  cross="true"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
