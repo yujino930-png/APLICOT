@@ -1,4 +1,3 @@
-[_tb_system_call storage=system/_Prologue.ks]
 
 [cm  ]
 [bg  storage="Train_2.png"  time="1000"  ]
