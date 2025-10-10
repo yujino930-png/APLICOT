@@ -1,5 +1,3 @@
-[_tb_system_call storage=system/_title_screen.ks]
-
 
 ;==============================
 ; タイトル画面
