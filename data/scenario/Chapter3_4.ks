@@ -1,4 +1,3 @@
-[_tb_system_call storage=system/_Chapter3_4.ks]
 
 [bg  time="1000"  method="crossfade"  storage="Office.png"  ]
 [tb_show_message_window  ]
