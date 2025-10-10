@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Chapter1.ks]
+[_tb_system_call storage=./data/scenario/system/_Chapter1.ks]
 
 [bg  time="1000"  method="fadeInDown"  storage="image/Station_Gate.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="BG_Chapter1.mp3"  loop="true"  fadein="true"  ]
