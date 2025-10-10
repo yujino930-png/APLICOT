@@ -1,4 +1,3 @@
-[_tb_system_call storage=system/_Chapter3_2.ks]
 
 [stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="Office.png"  ]
