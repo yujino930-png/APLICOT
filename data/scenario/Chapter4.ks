@@ -1,4 +1,3 @@
-[_tb_system_call storage=system/_Chapter4.ks]
 
 [bg  time="1000"  method="crossfade"  storage="image/Garden.png"  ]
 [tb_show_message_window  ]
