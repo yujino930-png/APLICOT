@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Prologue.ks]
+[_tb_system_call storage=./data/scenario/system/_Prologue.ks]
 
 [cm  ]
 [bg  storage="Train_2.png"  time="1000"  ]
