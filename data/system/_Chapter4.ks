@@ -1,8 +1,0 @@
-[preload  storage="./data/bgimage/image/Garden.png"  ]
-[preload  storage="./data/bgimage/WhiteBook.png"  ]
-[preload  storage="./data/bgimage/WhiteSchreen.png"  ]
-[preload  storage="./data/bgimage/Train_2.png"  ]
-[preload  storage="./data/bgimage/BlackScreen.png"  ]
-[preload  storage="./data/bgimage/QABuilding.png"  ]
-[preload  storage="./data/bgimage/CatKingdom.png"  ]
-[return]
