@@ -1,4 +1,3 @@
-[_tb_system_call storage=system/_Chapter2.ks]
 
 [cm  ]
 [bg  time="1000"  method="fadeIn"  storage="image/Factory.png"  cross="true"  ]
