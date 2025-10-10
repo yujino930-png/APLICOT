@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_Chapter3_5.ks]
+[_tb_system_call storage=./data/scenario/system/_Chapter3_5.ks]
 
 [bg  time="1000"  method="crossfade"  storage="Office.png"  ]
 [tb_show_message_window  ]
